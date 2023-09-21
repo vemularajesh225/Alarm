@@ -10,8 +10,8 @@ Alarms List: A list displaying all the alarms set by the user.
 
 Delete Alarm: Each alarm in the list has a delete button. Users can click the button to remove the alarm from the list. Deleting an alarm does not trigger an alert.
 
-Getting Started
-To use and deploy this Alarm Clock web application, follow these steps:
+# Getting Started
+To use and deploy this Alarm  web application, follow these steps:
 
 Clone this repository to your local machine or download this main (root) folder:(https://github.com/vemularajesh225/Alarm)
 
