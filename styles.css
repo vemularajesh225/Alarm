@@ -1,7 +1,8 @@
 /* Body styling */
 body {
     /* Background image with the full file path */
-    background-image: url('file:///C:/Users/vemul/OneDrive/Desktop/rajesh/Alarm%20App/Nature.jpg');
+    background-image: url('https://github.com/vemularajesh225/Alarm/assets/133518889/3ecc9786-ccfd-43d1-88be-97af1aa55c03
+');
     /* Background position relative to the viewport */
     background-position: relative;
     /* Fixed background attachment, so the image doesn't scroll with content */
