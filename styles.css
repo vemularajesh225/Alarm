@@ -3,7 +3,7 @@ body {
     /* Background image with the full file path */
     background-image: url("images/Nature.jpg");
     /* Background position relative to the viewport */
-    background-position: relative;
+    background-position: center;
     /* Fixed background attachment, so the image doesn't scroll with content */
     background-attachment: fixed;
     /* Background size to cover the entire viewport */
