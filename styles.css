@@ -1,7 +1,7 @@
 /* Body styling */
 body {
     /* Background image with the full file path */
-    background-image: url('./Nature.jpg')
+    background-image: url("Nature.jpg")
 );
     /* Background position relative to the viewport */
     background-position: relative;
