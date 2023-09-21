@@ -21,7 +21,7 @@ Usage:- To run the webpage, open the index.html and right click within the code 
 
 On completing step 3 you must be able to see a webpage showing the alarm app in front of you.
 
-Deployment:-
+# Deployment:-
 To deploy the application to GitHub Pages, follow these steps:
 
 Sign up for an account on GitHub (https://github.com) if you haven't already.
