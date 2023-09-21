@@ -1,7 +1,7 @@
 /* Body styling */
 body {
     /* Background image with the full file path */
-    background-image: url("https://github.com/vemularajesh225/Alarm/raw/main/Nature.jpg");
+    background-image: url("images/Nature.jpg");
     /* Background position relative to the viewport */
     background-position: relative;
     /* Fixed background attachment, so the image doesn't scroll with content */
